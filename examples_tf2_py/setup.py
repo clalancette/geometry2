@@ -1,5 +1,7 @@
 from setuptools import setup
 
+import fastentrypoints
+
 package_name = 'examples_tf2_py'
 
 setup(
